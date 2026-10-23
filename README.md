@@ -83,14 +83,11 @@
 
 ## 🌍 Поддерживаемые форматы
 
-<div align="center">
- Форматы изображений
 [![JPG](https://img.shields.io/badge/JPG-FFD700?logo=jpeg&logoColor=black)](#)
 [![JPEG](https://img.shields.io/badge/JPEG-FFD700?logo=jpeg&logoColor=black)](#)
 [![PNG](https://img.shields.io/badge/PNG-000000?logo=png&logoColor=white)](#)
 [![WEBP](https://img.shields.io/badge/WebP-4285F4?logo=webp&logoColor=white)](#)
 [![BMP](https://img.shields.io/badge/BMP-808080?logo=bmp&logoColor=white)](#)
-</div>
 
 
 ---
